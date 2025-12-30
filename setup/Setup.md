@@ -1,5 +1,5 @@
  
-# Windows VM Setup
+# Setup steps
 - Create Azure account and open Azure portal
 - Create Resource group in Azure
 - Create Virtual Netwrok in Azure under the resource group
