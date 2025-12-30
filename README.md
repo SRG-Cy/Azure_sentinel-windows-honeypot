@@ -30,3 +30,8 @@ This project shows how to:
 - Microsoft Sentinel enabled
 - Windows VM with Security log collection
 
+---
+
+## KQL Query
+
+  
